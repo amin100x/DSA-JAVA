@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Assingnment/Assingnment.iml" filepath="$PROJECT_DIR$/Assingnment/Assingnment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search Qus/Binary Search Qus.iml" filepath="$PROJECT_DIR$/Binary Search Qus/Binary Search Qus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Condition and Loops/Condition and Loops.iml" filepath="$PROJECT_DIR$/Condition and Loops/Condition and Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA.iml" filepath="$PROJECT_DIR$/.idea/JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion Arr/Recursion Arr.iml" filepath="$PROJECT_DIR$/Recursion Arr/Recursion Arr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recurtion Array/Recurtion Array.iml" filepath="$PROJECT_DIR$/Recurtion Array/Recurtion Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/first program/first program.iml" filepath="$PROJECT_DIR$/first program/first program.iml" />
+    </modules>
+  </component>
+</project>
